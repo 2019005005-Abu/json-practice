@@ -1,0 +1,49 @@
+{
+    "friends":[
+        {
+         "name":"Abu Al Shahriar",
+         "middle_name":"Rifat",
+         "age":31,
+         "CGPA":3.56,
+         "isRegisted":true,
+         "Favorite_ProgrammingLanguage":["Javascript","Typescript","Python","GO"],
+         "skillS":[
+            "Fonted-Wep Application Developement ",
+            "Backend web Application Developement Using Node",
+            "Backedn Web Application Developement Using DJango",
+            "Mobile Application developement Using React Native"
+
+         ],
+         "Favrite_freinds":[
+            {
+             "name":"Akash Khan",
+             "age":23
+            },{
+                "name":"Munil Hasan",
+                "age":24
+            }
+         ]
+        },{
+        "name":"Abu Al Shahriar",
+         "middle_name":"Rifat",
+         "age":31,
+         "CGPA":3.56,
+         "isRegisted":true,
+         "Favorite_ProgrammingLanguage":["Javascript","Typescript","Python","GO"]
+        },{
+            "name":"Abu Al Shahriar",
+         "middle_name":"Rifat",
+         "age":31,
+         "CGPA":3.56,
+         "isRegisted":true,
+         "Favorite_ProgrammingLanguage":["Javascript","Typescript","Python","GO"]
+        },{
+        "name":"Abu Al Shahriar",
+         "middle_name":"Rifat",
+         "age":31,
+         "CGPA":3.56,
+         "isRegisted":true,
+         "Favorite_ProgrammingLanguage":["Javascript","Typescript","Python","GO"]
+        }
+    ]
+}
